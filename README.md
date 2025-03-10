@@ -8,11 +8,6 @@ name:Titel des Films
 date_x: Erscheinungsdatum
 score: IMDb_Bewertung
 genre: Filmgenre
-overview: Kurbeschreibung des Films
-crew: Beteiligte Schauspieler und Crewmitglieder
-orig_lang: Originalsprache
-budget_x: Produktionsbudget
-revenue: Einnahmen
 country: Produktionsland
 
 Die Daten bieten eine Grundlage zur Analyse von Filmbewertungen, Budget- und Einnahmenrelationen sowie Trends im Genre-Bereich.
