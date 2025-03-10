@@ -5,6 +5,7 @@
 Dieser Datensatz enthält Informationen zu Flughäfen weltweit. Sie ist als CSV Datei formatiert, und wird mittels Kommazeichen getrennt. Er umfasst über 80'000 Einträge mit 11 verschiedenen Feldern. Es umfasst diese Spalten:
 
 ident: Eine eindeutige Kennung für jeden Flughafen.
+
 type: Der Typ des Flughafens (z. B. "small_airport", "heliport").
 name: Der Name des Flughafens.
 elevation_ft: Höhe über dem Meeresspiegel in Fuß.
