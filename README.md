@@ -26,6 +26,7 @@ local_code: Ein lokaler Code für den Flughafen.
 
 coordinates: Breitengrad und Längengrad des Flughafens.
 
+
 Die folgenden Daten wurden wegen Redundanz gereinigt: iata_code, ident, gps_code, local_code und iso_region
 
 ## Datenschutz
